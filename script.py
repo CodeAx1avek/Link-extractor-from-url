@@ -1,4 +1,3 @@
-pip install tqdm
 
 import argparse
 import os
