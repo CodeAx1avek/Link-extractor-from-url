@@ -1,6 +1,6 @@
 # Link Grabber From Website 👋
 [![License: mit](https://img.shields.io/badge/License-mit-yellow.svg)](LICENCE.MD)
-[![Twitter: asdasd](https://img.shields.io/twitter/follow/CodeAx4.svg?style=social)](https://twitter.com/CodeAx4)
+[![Twitter: asdasd](https://img.shields.io/twitter/follow/CodeAx4.svg?style=social)](https://youtube.com/codeax10)
 
 <b> To create a README for this code, I would suggest providing an overview of what the code does, how to use it, and any dependencies it requires. <b>
 <br>
@@ -62,6 +62,6 @@ Give a ⭐️ if this project helped you!
 
 # ⚖️ License
 
-Copyright © 2023 [CodeAx4](https://github.com/CodeAx1avek).
+Copyright © 2023 [CodeAx1](https://github.com/CodeAx1avek).
 
 This project is [MIT]() licensed.
