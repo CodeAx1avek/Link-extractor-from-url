@@ -7,7 +7,7 @@
 <br>
 ##installation
 ```sh
- gitclone https://github.com/CodeAx1avek/Link-extractor-from-url
+ git clone https://github.com/CodeAx1avek/Link-extractor-from-url
  cd Link-extractor-from-url
  ls
 ```
