@@ -5,6 +5,12 @@
 <b> To create a README for this code, I would suggest providing an overview of what the code does, how to use it, and any dependencies it requires. <b>
 <br>
 <br>
+##installation
+```sh
+ gitclone https://github.com/CodeAx1avek/Link-extractor-from-url
+ cd Link-extractor-from-url
+ ls
+```
 
 ## Usage
 ```sh
