@@ -1,6 +1,6 @@
 # Link Grabber From Website 👋
 [![License: mit](https://img.shields.io/badge/License-mit-yellow.svg)](LICENCE.MD)
-[![Twitter: asdasd](https://img.shields.io/youtube/follow/CodeAx1.svg?style=social)](https://youtube.com/codeax10)
+[![Twitter: asdasd](https://img.shields.io/twitter/follow/CodeAx1.svg?style=social)](https://youtube.com/codeax10)
 
 <b> To create a README for this code, I would suggest providing an overview of what the code does, how to use it, and any dependencies it requires. <b>
 <br>
